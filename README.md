@@ -8,7 +8,7 @@ development environment.
 The project is meant to be a starter for your chatbot project.
 
 To use this project do the following:
-
+wqd
 1. Fork this project
 2. From the code section of the repository click the green code button, select Codespaces
 tab in the popup and click the + button to create a codespace (you will be able to use this codespace
